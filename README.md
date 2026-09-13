@@ -1,20 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:0B5EA8,100:7C3AED&height=210&section=header&text=ARTHIK%20DWIVEDI&fontSize=58&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=AI%2FML%20Engineer%20%20%7C%20%20Full-stack%20Developer%20%20%7C%20%20Problem%20Solver&descAlignY=57&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,35:0B1120,100:7C3AED&height=210&section=header&text=ARTHIK%20DWIVEDI&fontSize=60&fontColor=F8FAFC&fontAlignY=34&animation=fadeIn&desc=AI%20Engineer%20%7C%20Product%20Builder%20%7C%20Problem%20Solver&descAlignY=56&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=36D9FF&center=true&vCenter=true&width=820&lines=Building+AI-powered+products+that+solve+real+problems+%F0%9F%A4%96;Turning+ideas+into+working+software+%F0%9F%9A%80;Python+%7C+Machine+Learning+%7C+Full-Stack;Learn+%E2%80%A2+Build+%E2%80%A2+Ship+%E2%80%A2+Improve" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=800&color=7DD3FC&center=true&vCenter=true&width=820&lines=Building+AI+products+that+matter+%F0%9F%A4%96;Turning+ideas+into+working+software+%F0%9F%9A%80;Python+%7C+Machine+Learning+%7C+Full-Stack;Design+%E2%80%A2+Build+%E2%80%A2+Ship+%E2%80%A2+Scale" alt="Typing animation"/>
+
+<br>
+
+<a href="https://github.com/ARTHIK22"><img src="https://img.shields.io/badge/GitHub-ARTHIK22-0B1020?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/arthik-dwivedi"><img src="https://img.shields.io/badge/LinkedIn-Arthik%20Dwivedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/8417996304/"><img src="https://img.shields.io/badge/LeetCode-8417996304-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://www.hackerrank.com/profile/at_dvd123"><img src="https://img.shields.io/badge/HackerRank-at__dvd123-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" /></a>
 
 <br><br>
 
-<a href="https://github.com/ARTHIK22"><img src="https://img.shields.io/badge/GitHub-ARTHIK22-111827?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/arthik-dwivedi"><img src="https://img.shields.io/badge/LinkedIn-Arthik%20Dwivedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://www.instagram.com/_arthik_22/"><img src="https://img.shields.io/badge/Instagram-@__arthik__22-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://leetcode.com/u/8417996304/"><img src="https://img.shields.io/badge/LeetCode-8417996304-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
-<a href="https://www.hackerrank.com/profile/at_dvd123"><img src="https://img.shields.io/badge/HackerRank-at__dvd123-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=ARTHIK22&label=PROFILE%20VIEWS&color=00D9FF&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OPEN%20TO%20WORK-INTERNSHIPS%20%7C%20PROJECTS-22C55E?style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=ARTHIK22&label=PROFILE%20VIEWS&color=8B5CF6&style=for-the-badge"/>
 
 </div>
 
@@ -22,186 +22,57 @@
 
 ## 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="68%" valign="top">
+I’m <b>Arthik Dwivedi</b>, a <b>B.Tech CSE (AI & Machine Learning)</b> student building products at the intersection of <b>AI</b>, <b>machine learning</b>, and <b>software engineering</b>.
 
-Hi, I'm <b>Arthik Dwivedi</b> — a <b>B.Tech CSE (AI & Machine Learning)</b> student who loves building intelligent, useful, and real-world software products.
+I enjoy turning ideas into useful, scalable applications — from intelligent systems and data-driven dashboards to full-stack experiences that solve real-world problems. My focus is simple: learn fast, build smart, and ship meaningful products.
 
-I enjoy working at the intersection of <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Software Development</b> — turning ideas into scalable applications that people can actually use.
-
-My focus is on learning by building, solving real problems, and creating products that combine technical depth with practical impact.
-
-<br>
-
-🎓 <b>B.Tech in Computer Science (AI & ML)</b><br>
-🤖 <b>Aspiring AI/ML Engineer</b><br>
-💻 <b>Full-Stack & Backend Developer</b><br>
-🧠 <b>AI • ML • Generative AI</b><br>
-🧩 <b>DSA & Problem Solving</b><br>
-🚀 <b>Product Mindset • Real-World Building</b>
-
-</td>
-
-<td width="32%" valign="top">
-
-### 💭 My Mindset
-
-> <b>Discipline today creates the engineer you want to become tomorrow.</b>
-
-<br>
-
-<b>Learn.</b><br>
-<b>Build.</b><br>
-<b>Ship.</b><br>
-<b>Improve.</b>
-
-</td>
-</tr>
-</table>
+### Highlights
+- <b>AI / ML</b> enthusiast with a product mindset
+- <b>Full-stack</b> developer comfortable with backend and frontend
+- Strong interest in <b>Generative AI</b>, <b>data products</b>, and intelligent automation
+- Driven by <b>problem solving</b>, <b>execution</b>, and <b>continuous improvement</b>
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Core Stack
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,html,css&perline=7"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,html,css&perline=7"/>
 </p>
 
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&perline=6"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,fastapi,flask,react,nextjs,nodejs&perline=9"/>
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,git,github,vscode,docker,postman&perline=8"/>
 </p>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ Backend & Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi,flask,react,nextjs,nodejs&perline=5"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white"/>
-</p>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🗄️ Databases & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,git,github,vscode,docker,postman&perline=8"/>
-</p>
-
-</td>
-</tr>
-</table>
 
 ---
 
-## ⭐ Featured Projects
+## ✨ Featured Work
 
-<table>
-<tr>
+### 1. NeoEstate AI
+A real-estate valuation platform that combines machine learning with market insights to predict property prices more intelligently.
 
-<td width="25%" valign="top">
+<b>Stack:</b> Python • Flask • Machine Learning  
+<a href="https://github.com/ARTHIK22/neoestate-ai">Code</a> • <a href="https://neoestate-ai-1.onrender.com/">Live Demo</a>
 
-### 🏠 NeoEstate AI
+### 2. ProjectSense AI
+An AI-powered academic project evaluation platform designed to assess student work using rubric-based logic and automated viva generation.
 
-A real-estate price prediction platform that combines machine learning with market insights to help users understand property value trends.
+<b>Stack:</b> Next.js • FastAPI • AI  
+<a href="https://github.com/ARTHIK22/AI-Powered-Academic-Project-Evaluation-Platform">Code</a> • <a href="https://ai-power-academic-project-evaluatio.vercel.app/">Live Demo</a>
 
-<b>Stack:</b> `Python` `Flask` `Machine Learning`
+### 3. Student Performance Clustering
+A data-driven academic dashboard that groups students into behavioral and performance personas using clustering and visual analytics.
 
-<br>
-
-<a href="https://github.com/ARTHIK22/neoestate-ai">🔗 Code</a>
-
-<br><br>
-
-<a href="https://neoestate-ai-1.onrender.com/">🚀 Live Demo</a>
-
-</td>
-
-<td width="25%" valign="top">
-
-### 🎓 ProjectSense AI
-
-An AI-powered academic project evaluation platform that automates rubric-based assessment and generates viva questions for student work.
-
-<b>Stack:</b> `Next.js` `FastAPI` `AI`
-
-<br>
-
-<a href="https://github.com/ARTHIK22/AI-Powered-Academic-Project-Evaluation-Platform">🔗 Code</a>
-
-<br><br>
-
-<a href="https://ai-power-academic-project-evaluatio.vercel.app/">🚀 Live Demo</a>
-
-</td>
-
-<td width="25%" valign="top">
-
-### 📊 Student Performance Clustering
-
-A machine learning system that groups students into academic personas using K-Means clustering and interactive visual analytics.
-
-<b>Stack:</b> `Python` `Machine Learning` `Streamlit`
-
-<br>
-
-<a href="https://github.com/ARTHIK22/-Student-Performance-Clustering-System">🔗 Code</a>
-
-<br><br>
-
-<a href="https://student-performance-clustering-syst.vercel.app/">🚀 Live Demo</a>
-
-</td>
-
-<td width="25%" valign="top">
-
-### 💼 Portfolio
-
-A personal developer portfolio to showcase projects, skills, and my journey as a software engineer and AI enthusiast.
-
-<b>Stack:</b> `HTML` `CSS` `JavaScript`
-
-<br>
-
-<a href="https://github.com/ARTHIK22/portfolio">🔗 Code</a>
-
-</td>
-
-</tr>
-</table>
+<b>Stack:</b> Python • ML • Streamlit  
+<a href="https://github.com/ARTHIK22/-Student-Performance-Clustering-System">Code</a> • <a href="https://student-performance-clustering-syst.vercel.app/">Live Demo</a>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Snapshot
 
 <div align="center">
 
@@ -211,56 +82,33 @@ A personal developer portfolio to showcase projects, skills, and my journey as a
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com/?user=ARTHIK22&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=ARTHIK22&theme=tokyonight&hide_border=true" width="55%"/>
 
 </div>
 
 ---
 
-## 💻 Coding Profiles
+## 🎯 Recruiter Focus
 
-<div align="center">
+- Building AI-powered products with real-world utility
+- Comfortable across <b>ML</b>, <b>backend</b>, and <b>web development</b>
+- Passionate about <b>product thinking</b>, <b>execution</b>, and <b>continuous learning</b>
+- Interested in roles involving <b>AI engineering</b>, <b>software development</b>, and <b>product-building</b>
 
-<a href="https://leetcode.com/u/8417996304/">
-<img src="https://img.shields.io/badge/LeetCode-8417996304-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
+---
 
-<a href="https://www.hackerrank.com/profile/at_dvd123">
-<img src="https://img.shields.io/badge/HackerRank-at__dvd123-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
+## 🌐 Connect
+
+<a href="https://github.com/ARTHIK22"><img src="https://img.shields.io/badge/GitHub-ARTHIK22-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/arthik-dwivedi"><img src="https://img.shields.io/badge/LinkedIn-Arthik%20Dwivedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.instagram.com/_arthik_22/"><img src="https://img.shields.io/badge/Instagram-@__arthik__22-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 
 <br><br>
 
-<img src="https://leetcard.jacoblin.cool/8417996304?theme=dark&font=baloo&ext=heatmap" width="520"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
+<p align="center">
+  <b>Build with intent. Solve real problems. Scale what matters.</b>
+</p>
 
 <div align="center">
-
-<a href="https://github.com/ARTHIK22">
-<img src="https://img.shields.io/badge/GitHub-@ARTHIK22-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/arthik-dwivedi">
-<img src="https://img.shields.io/badge/LinkedIn-Arthik%20Dwivedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/_arthik_22/">
-<img src="https://img.shields.io/badge/Instagram-@__arthik__22-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-
-### 🚀 Build something meaningful. Solve real problems. Keep improving.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:0B5EA8,100:7C3AED&height=110&section=footer" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020817,35:0B1120,100:7C3AED&height=120&section=footer" width="100%"/>
 </div>
