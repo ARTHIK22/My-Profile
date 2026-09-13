@@ -1,80 +1,280 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Arthik%20Dwivedi&fontSize=55&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20ML%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
+# 👋 Hey, I'm **Arthik Dwivedi**
+
+### `AI/ML Engineer • Python Developer • Software Developer • Problem Solver`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+Intelligent+Solutions+with+AI+%26+ML;Turning+Ideas+into+Real+World+Projects;Python+%7C+AI%2FML+%7C+FastAPI+%7C+React;Always+Learning+%7C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
+
+<br>
 
 <a href="https://github.com/ARTHIK22">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Arthik+%F0%9F%91%8B;Building+AI-powered+applications+%F0%9F%A4%96;Turning+data+into+decisions+%F0%9F%93%8A;Always+shipping%2C+always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://komarev.com/ghpvc/?username=ARTHIK22&label=Profile%20Views&color=00D9FF&style=for-the-badge" />
 </a>
 
-<br/>
+<a href="https://github.com/ARTHIK22?tab=followers">
+<img src="https://img.shields.io/github/followers/ARTHIK22?label=Followers&style=for-the-badge&color=181717" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthik-dwivedi-553b6938a)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_arthik_22/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ARTHIK22)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ARTHIK22&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+<a href="https://github.com/ARTHIK22?tab=repositories">
+<img src="https://img.shields.io/github/stars/ARTHIK22?label=Stars&style=for-the-badge&color=FFD700" />
+</a>
 
 </div>
 
-<br/>
+---
 
-## 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🔭 Currently building **[neoestate-ai](https://github.com/ARTHIK22/neoestate-ai)** and an **[AI-Powered Academic Project Evaluation Platform](https://github.com/ARTHIK22/AI-Powered-Academic-Project-Evaluation-Platform)**
-- 🧠 Exploring machine learning through projects like a **[Student Performance Clustering System](https://github.com/ARTHIK22/-Student-Performance-Clustering-System)**
-- 🌐 Also crafting my personal **[portfolio](https://github.com/ARTHIK22/portfolio)** on the web
-- 💬 Ask me about Python, Machine Learning, or building AI-driven apps
-- ⚡ Fun fact: I enjoy turning half-baked ideas into working prototypes over a weekend
+```python
+class ArthikDwivedi:
 
-<br/>
+    def __init__(self):
+        self.name = "Arthik Dwivedi"
+        self.role = "AI/ML Engineer"
+        self.education = "B.Tech CSE (AIML)"
+        self.location = "India 🇮🇳"
 
-## 🛠️ Tech Stack
+        self.languages = [
+            "Python",
+            "Java",
+            "JavaScript",
+            "SQL"
+        ]
+
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Generative AI",
+            "Software Development",
+            "Problem Solving",
+            "Building Real-World Products"
+        ]
+
+        self.current_focus = [
+            "AI/ML Engineering",
+            "Full-Stack AI Applications",
+            "Data Structures & Algorithms",
+            "System Design"
+        ]
+
+    def say_hi(self):
+        print("Thanks for visiting my profile! 🚀")
+```
+
+---
+
+## 🚀 What I'm Currently Working On
+
+🔹 Building **AI-powered real-world applications**
+
+🔹 Developing my **AI/ML Engineering skills**
+
+🔹 Working with **Python, Machine Learning & FastAPI**
+
+🔹 Improving **Data Structures & Algorithms**
+
+🔹 Building products instead of just tutorials
+
+🔹 Exploring **Generative AI & intelligent systems**
+
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,sql,html,css" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn" />
+</p>
+
+`Machine Learning` • `Deep Learning` • `NLP` • `Computer Vision` • `Data Analysis` • `Generative AI`
+
+### ⚙️ Backend & Frameworks
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,react" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql,mongodb" />
+</p>
+
+### ☁️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,docker,postman,linux" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+### 🏡 NeoEstate AI
+
+**AI-powered real estate platform**
+
+> Intelligent property discovery and AI-driven real estate solutions.
+
+**Tech:** `Python` `AI/ML` `Web Development`
+
+---
+
+### 🎓 Student Performance Clustering System
+
+**Machine Learning project for analyzing student performance**
+
+> Uses clustering techniques to identify meaningful student performance patterns and groups.
+
+**Tech:** `Python` `Machine Learning` `Scikit-Learn` `Data Analysis`
+
+---
+
+### 🤖 AI-Powered Academic Project Evaluation Platform
+
+**Intelligent academic project evaluation system**
+
+> A platform designed to analyze and evaluate academic projects using AI-powered techniques.
+
+**Tech:** `TypeScript` `AI` `Web Development`
+
+---
+
+### 🧠 Study Guard
+
+**AI-powered productivity & study management platform**
+
+> An intelligent system designed to help students control digital distractions, track study behavior and improve productivity.
+
+**Focus:** `AI` `Productivity` `Screen-Time Intelligence` `Student Technology`
+
+---
+
+# 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css,react,nodejs,tensorflow,git,github,vscode,linux" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ARTHIK22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARTHIK22&layout=compact&theme=tokyonight&hide_border=true" />
+
 </div>
 
-<br/>
+---
 
-## 📊 GitHub Stats
+# 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ARTHIK22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ARTHIK22&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://streak-stats.demolab.com?user=ARTHIK22&theme=tokyonight&hide_border=true" />
+
 </div>
 
+---
+
+# 🐍 Contribution Snake
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARTHIK22&layout=compact&theme=tokyonight&hide_border=true" width="50%" />
+
+<img src="https://raw.githubusercontent.com/ARTHIK22/ARTHIK22/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
 </div>
 
-<br/>
+---
 
-## 📈 Contribution Activity
+# 💻 Coding Profiles
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ARTHIK22&theme=tokyo-night&hide_border=true" width="100%" />
+
+<a href="https://leetcode.com/u/8417996304/">
+<img src="https://img.shields.io/badge/LeetCode-8417996304-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/at_dvd123">
+<img src="https://img.shields.io/badge/HackerRank-at__dvd123-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
 </div>
 
-<br/>
+---
 
-## 🏆 Trophies
+# 📈 LeetCode
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ARTHIK22&theme=tokyonight&no-frame=true&row=1&column=7" />
+
+<img src="https://leetcard.jacoblin.cool/8417996304?theme=dark&font=baloo&ext=heatmap" />
+
 </div>
 
-<br/>
+---
 
-## 🐍 Contribution Snake
+# 🌐 Connect With Me
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ARTHIK22/ARTHIK22/output/github-contribution-grid-snake.svg" width="100%" />
+
+<a href="https://github.com/ARTHIK22">
+<img src="https://img.shields.io/badge/GitHub-ARTHIK22-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/arthik-dwivedi">
+<img src="https://img.shields.io/badge/LinkedIn-Arthik%20Dwivedi-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://www.instagram.com/_arthik_22/">
+<img src="https://img.shields.io/badge/Instagram-_arthik__22-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/8417996304/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/at_dvd123">
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
 </div>
 
-> Note: the snake graph needs a one-time GitHub Actions setup — see **SNAKE_SETUP.md** in this download for the workflow file and instructions.
+---
 
-<br/>
+# 💡 My Developer Philosophy
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+### *"Don't just learn technology. Build something with it."* 🚀
+
+**Learn → Build → Break → Debug → Improve → Repeat**
+
+</div>
+
+---
+
+# 🎯 2026 Goals
+
+```text
+☐ Become a strong AI/ML Engineer
+☐ Master Data Structures & Algorithms
+☐ Build production-ready AI applications
+☐ Learn System Design
+☐ Contribute to Open Source
+☐ Build and launch my own products
+☐ Get industry-level development experience
+☐ Create impactful AI solutions
+```
+
+---
+
+<div align="center">
+
+### 🚀 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer"/>
+
 </div>
