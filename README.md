@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:0B5EA8,100:7C3AED&height=210&section=header&text=ARTHIK%20DWIVEDI&fontSize=58&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=AI%2FML%20Engineer%20%20%7C%20%20Full-Stack%20Developer%20%20%7C%20%20Problem%20Solver&descAlignY=57&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:0B5EA8,100:7C3AED&height=210&section=header&text=ARTHIK%20DWIVEDI&fontSize=58&fontColor=FFFFFF&fontAlignY=34&animation=fadeIn&desc=AI%2FML%20Engineer%20%20%7C%20%20Full-stack%20Developer%20%20%7C%20%20Problem%20Solver&descAlignY=57&descSize=19" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=36D9FF&center=true&vCenter=true&width=780&lines=Building+AI-powered+real-world+products+%F0%9F%A4%96;Turning+ideas+into+working+applications+%F0%9F%9A%80;Python+%7C+Machine+Learning+%7C+Full-Stack;Learn+%E2%80%A2+Build+%E2%80%A2+Ship+%E2%80%A2+Improve" alt="Typing animation"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=900&color=36D9FF&center=true&vCenter=true&width=820&lines=Building+AI-powered+products+that+solve+real+problems+%F0%9F%A4%96;Turning+ideas+into+working+software+%F0%9F%9A%80;Python+%7C+Machine+Learning+%7C+Full-Stack;Learn+%E2%80%A2+Build+%E2%80%A2+Ship+%E2%80%A2+Improve" alt="Typing animation"/>
 
 <br><br>
 
@@ -26,18 +26,20 @@
 <tr>
 <td width="68%" valign="top">
 
-Hi! I'm **Arthik Dwivedi**, a **B.Tech CSE (AI & Machine Learning)** student passionate about building intelligent, useful and real-world software products.
+Hi, I'm <b>Arthik Dwivedi</b> — a <b>B.Tech CSE (AI & Machine Learning)</b> student who loves building intelligent, useful, and real-world software products.
 
-I enjoy working at the intersection of **Artificial Intelligence, Machine Learning and Software Development**, turning ideas into applications that people can actually use.
+I enjoy working at the intersection of <b>Artificial Intelligence</b>, <b>Machine Learning</b>, and <b>Software Development</b> — turning ideas into scalable applications that people can actually use.
+
+My focus is on learning by building, solving real problems, and creating products that combine technical depth with practical impact.
 
 <br>
 
-🎓 **B.Tech CSE (AIML)**  
-🤖 **Aspiring AI/ML Engineer**  
-💻 **Full-Stack & Backend Development**  
-🧠 **AI • ML • Generative AI**  
-🧩 **DSA & Problem Solving**  
-🚀 **Real-World Product Building**
+🎓 <b>B.Tech in Computer Science (AI & ML)</b><br>
+🤖 <b>Aspiring AI/ML Engineer</b><br>
+💻 <b>Full-Stack & Backend Developer</b><br>
+🧠 <b>AI • ML • Generative AI</b><br>
+🧩 <b>DSA & Problem Solving</b><br>
+🚀 <b>Product Mindset • Real-World Building</b>
 
 </td>
 
@@ -45,14 +47,14 @@ I enjoy working at the intersection of **Artificial Intelligence, Machine Learni
 
 ### 💭 My Mindset
 
-> **Discipline today creates the engineer you want to become tomorrow.**
+> <b>Discipline today creates the engineer you want to become tomorrow.</b>
 
 <br>
 
-**Learn.**  
-**Build.**  
-**Ship.**  
-**Improve.**
+<b>Learn.</b><br>
+<b>Build.</b><br>
+<b>Ship.</b><br>
+<b>Improve.</b>
 
 </td>
 </tr>
@@ -130,11 +132,9 @@ I enjoy working at the intersection of **Artificial Intelligence, Machine Learni
 
 ### 🏠 NeoEstate AI
 
-Real-estate price prediction platform using Machine Learning with market insights and feature analysis.
+A real-estate price prediction platform that combines machine learning with market insights to help users understand property value trends.
 
-**Stack**
-
-`Python` `Flask` `ML`
+<b>Stack:</b> `Python` `Flask` `Machine Learning`
 
 <br>
 
@@ -150,11 +150,9 @@ Real-estate price prediction platform using Machine Learning with market insight
 
 ### 🎓 ProjectSense AI
 
-AI-powered academic project evaluation platform with rubric-based scoring and automated viva questions.
+An AI-powered academic project evaluation platform that automates rubric-based assessment and generates viva questions for student work.
 
-**Stack**
-
-`Next.js` `FastAPI` `AI`
+<b>Stack:</b> `Next.js` `FastAPI` `AI`
 
 <br>
 
@@ -168,13 +166,11 @@ AI-powered academic project evaluation platform with rubric-based scoring and au
 
 <td width="25%" valign="top">
 
-### 📊 Student Performance
+### 📊 Student Performance Clustering
 
-Machine Learning system that groups students into academic personas using K-Means clustering and interactive visualizations.
+A machine learning system that groups students into academic personas using K-Means clustering and interactive visual analytics.
 
-**Stack**
-
-`Python` `ML` `Streamlit`
+<b>Stack:</b> `Python` `Machine Learning` `Streamlit`
 
 <br>
 
@@ -190,11 +186,9 @@ Machine Learning system that groups students into academic personas using K-Mean
 
 ### 💼 Portfolio
 
-Personal developer portfolio showcasing projects, skills and development work.
+A personal developer portfolio to showcase projects, skills, and my journey as a software engineer and AI enthusiast.
 
-**Stack**
-
-`HTML` `CSS` `JavaScript`
+<b>Stack:</b> `HTML` `CSS` `JavaScript`
 
 <br>
 
@@ -243,7 +237,7 @@ Personal developer portfolio showcasing projects, skills and development work.
 
 ---
 
-## 🌐 Let's Connect
+## 🌐 Connect With Me
 
 <div align="center">
 
@@ -265,7 +259,7 @@ Personal developer portfolio showcasing projects, skills and development work.
 
 <div align="center">
 
-### 🚀 Build something real. Make it useful. Keep improving.
+### 🚀 Build something meaningful. Solve real problems. Keep improving.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,45:0B5EA8,100:7C3AED&height=110&section=footer" width="100%"/>
 
