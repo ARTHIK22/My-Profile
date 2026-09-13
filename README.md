@@ -1,4 +1,6 @@
-<!-- ========================= HEADER ========================= -->
+<!-- ========================================================= -->
+<!--                       HEADER                              -->
+<!-- ========================================================= -->
 
 <div align="center">
 
@@ -6,7 +8,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+AI-powered+real-world+products+%F0%9F%A4%96;Turning+ideas+into+working+applications+%F0%9F%9A%80;Python+%7C+Machine+Learning+%7C+Full-Stack;Learning+%E2%80%A2+Building+%E2%80%A2+Shipping+%E2%80%A2+Improving" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=800&lines=Building+AI-powered+real-world+products+%F0%9F%A4%96;Turning+ideas+into+working+applications+%F0%9F%9A%80;Python+%7C+Machine+Learning+%7C+Full-Stack;Learning+%E2%80%A2+Building+%E2%80%A2+Shipping+%E2%80%A2+Improving" alt="Typing SVG"/>
 
 <br><br>
 
@@ -32,9 +34,10 @@
 
 </div>
 
----
 
-<!-- ========================= ABOUT ========================= -->
+<!-- ========================================================= -->
+<!--                       ABOUT ME                             -->
+<!-- ========================================================= -->
 
 ## 👨‍💻 About Me
 
@@ -43,24 +46,320 @@ Hi! I'm **Arthik Dwivedi**, a **B.Tech CSE (AI & Machine Learning)** student pas
 - 🤖 Aspiring **AI/ML Engineer**
 - 🐍 Building applications with **Python & Machine Learning**
 - 💻 Interested in **Full-Stack Development**
-- 🧠 Exploring **Generative AI, NLP & intelligent systems**
+- 🧠 Exploring **Generative AI, NLP & Intelligent Systems**
 - ⚡ Practicing **Data Structures & Algorithms**
 - 🏗️ Building projects that solve **real-world problems**
 - 🚀 Focused on becoming a strong **industry-ready engineer**
 
 > **I don't just learn technologies — I build with them.**
 
----
 
-<!-- ========================= CURRENT FOCUS ========================= -->
+<!-- ========================================================= -->
+<!--                    CURRENT FOCUS                           -->
+<!-- ========================================================= -->
 
 ## 🎯 Currently Focusing On
 
-```text
-🤖 Artificial Intelligence & Machine Learning
-🐍 Advanced Python Development
-🧩 Data Structures & Algorithms
-⚙️ Backend Development & APIs
-🌐 Full-Stack AI Applications
-🏗️ System Design & Software Engineering
-🚀 Building Production-Oriented Projects
+<div align="center">
+
+| 🤖 AI / ML | 💻 Development | 🧩 Problem Solving |
+|:---:|:---:|:---:|
+| Machine Learning | Python | Data Structures |
+| Generative AI | FastAPI | Algorithms |
+| NLP | React | System Design |
+| Intelligent Systems | APIs | Competitive Programming |
+
+</div>
+
+
+<!-- ========================================================= -->
+<!--                     TECH STACK                            -->
+<!-- ========================================================= -->
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,html,css&perline=7"/>
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn&perline=6"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
+
+### ⚙️ Backend & Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,flask,react,nextjs,nodejs&perline=6"/>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+</p>
+
+### 🗄️ Databases & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,git,github,vscode,docker,postman&perline=8"/>
+</p>
+
+
+<!-- ========================================================= -->
+<!--                  FEATURED PROJECTS                         -->
+<!-- ========================================================= -->
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏠 NeoEstate AI
+
+AI-powered real-estate price prediction platform.
+
+**Features**
+
+- 📊 Machine Learning price prediction
+- 📈 Feature importance analysis
+- 🏘️ Local market comparison
+- 🌐 Interactive web application
+
+**Tech**
+
+`Python` `Flask` `Scikit-Learn`
+
+<br>
+
+<a href="https://github.com/ARTHIK22/neoestate-ai">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://neoestate-ai-1.onrender.com/">
+<img src="https://img.shields.io/badge/Live%20Demo-00C7B7?style=for-the-badge&logo=render"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🎓 ProjectSense AI
+
+AI-powered academic project evaluation platform.
+
+**Features**
+
+- 📄 Report / code / presentation evaluation
+- 🤖 AI-powered scoring
+- 📝 Custom evaluation rubrics
+- 🎤 Automated viva-question generation
+
+**Tech**
+
+`Next.js` `FastAPI` `SQLAlchemy`
+
+<br>
+
+<a href="https://github.com/ARTHIK22/AI-Powered-Academic-Project-Evaluation-Platform">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://ai-power-academic-project-evaluatio.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 📊 Student Performance Clustering
+
+Machine Learning system for analyzing student performance.
+
+**Features**
+
+- 🧠 K-Means clustering
+- 📚 Academic persona identification
+- 📈 Interactive 2D/3D visualizations
+- 🎯 Performance pattern analysis
+
+**Tech**
+
+`Python` `Streamlit` `Scikit-Learn` `Plotly`
+
+<br>
+
+<a href="https://github.com/ARTHIK22/-Student-Performance-Clustering-System">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://student-performance-clustering-syst.vercel.app/">
+<img src="https://img.shields.io/badge/Live%20Demo-FF4B4B?style=for-the-badge&logo=streamlit"/>
+</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💼 Personal Portfolio
+
+My personal developer portfolio showcasing projects, skills and development work.
+
+**Tech**
+
+`HTML` `CSS` `JavaScript`
+
+<br>
+
+<a href="https://github.com/ARTHIK22/portfolio">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</td>
+
+</tr>
+</table>
+
+
+<!-- ========================================================= -->
+<!--                    GITHUB STATS                            -->
+<!-- ========================================================= -->
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ARTHIK22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="180"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARTHIK22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com/?user=ARTHIK22&theme=tokyonight&hide_border=true" width="60%"/>
+
+</div>
+
+
+<!-- ========================================================= -->
+<!--                 CONTRIBUTION SNAKE                         -->
+<!-- ========================================================= -->
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/ARTHIK22/ARTHIK22/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+
+<!-- ========================================================= -->
+<!--                   CODING PROFILES                         -->
+<!-- ========================================================= -->
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/8417996304/">
+<img src="https://img.shields.io/badge/LeetCode-8417996304-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/at_dvd123">
+<img src="https://img.shields.io/badge/HackerRank-at__dvd123-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://leetcard.jacoblin.cool/8417996304?theme=dark&font=baloo&ext=heatmap" width="500"/>
+
+</div>
+
+
+<!-- ========================================================= -->
+<!--                    GITHUB TROPHIES                         -->
+<!-- ========================================================= -->
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ARTHIK22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"/>
+
+</div>
+
+
+<!-- ========================================================= -->
+<!--                 ACTIVITY GRAPH                             -->
+<!-- ========================================================= -->
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ARTHIK22&bg_color=0D1117&color=00D9FF&line=0077FF&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+
+</div>
+
+
+<!-- ========================================================= -->
+<!--                     CONNECT                                -->
+<!-- ========================================================= -->
+
+## 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/ARTHIK22">
+<img src="https://img.shields.io/badge/GitHub-ARTHIK22-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/arthik-dwivedi">
+<img src="https://img.shields.io/badge/LinkedIn-Arthik%20Dwivedi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/_arthik_22/">
+<img src="https://img.shields.io/badge/Instagram-_arthik__22-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/8417996304/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/at_dvd123">
+<img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</div>
+
+
+<!-- ========================================================= -->
+<!--                       FOOTER                               -->
+<!-- ========================================================= -->
+
+<br>
+
+<div align="center">
+
+### 💭 *"Build something real. Make it useful. Keep improving."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0077FF,100:7C3AED&height=120&section=footer" width="100%"/>
+
+</div>
