@@ -29,7 +29,7 @@ class ArthikDwivedi:
         self.name = "Arthik Dwivedi"
         self.role = "AI/ML Engineer"
         self.education = "B.Tech CSE (AIML)"
-        self.location = "India 🇮🇳"
+        self.location = "India"
 
         self.languages = [
             "Python",
@@ -225,7 +225,7 @@ class ArthikDwivedi:
 
 ---
 
-# 📈 LeetCode
+# 📈 LeetCode — Problems Solved
 
 <div align="center">
 
@@ -268,6 +268,21 @@ class ArthikDwivedi:
 **Learn → Build → Break → Debug → Improve → Repeat**
 
 </div>
+
+---
+
+# 🎯 2026 Goals
+
+```text
+☐ Become a strong AI/ML Engineer
+☐ Master Data Structures & Algorithms
+☐ Build production-ready AI applications
+☐ Learn System Design
+☐ Contribute to Open Source
+☐ Build and launch my own products
+☐ Get industry-level development experience
+☐ Create impactful AI solutions
+```
 
 ---
 
